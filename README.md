@@ -1,4 +1,4 @@
-This is a basic web page, created with react library, totally reponsive based on a figma design. 
+This is a basic web page, created with react library, totally reponsive based on a figma design and using BEM methodology
 
 ![1](https://user-images.githubusercontent.com/52585899/201903134-8fb4a8c5-07df-4feb-8cf7-84a9bb9690fb.png)
 ![3](https://user-images.githubusercontent.com/52585899/201903417-a60772a8-135d-4d1e-b7f9-682d26d74841.png)
